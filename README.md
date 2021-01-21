@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on DJI Drones Hacking and Cryptographic Engineering
 - 🌱 I’m currently learning firmware analysis and all other needed skills
 - 🤔 I’m currently at Lab Of Cryptography and Computer Security in Shanghai Jiao Tong University
-- 💬 Actually, I love writing and doing some well-organized presentation.
+- 💬 Actually, I love writing things and doing some well-organized presentations.
 - 📫 How to reach me: linxzhan9@gmail.com
 
 ### Still Need hard-working 😥
@@ -34,4 +34,4 @@
 ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=Latex)
 
 ### Anyway
-- Just Keep Moving On
+- The Show Must Go On，just keep learning.
